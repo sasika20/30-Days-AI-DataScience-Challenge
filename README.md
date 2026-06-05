@@ -84,9 +84,9 @@ This repository documents my 30-day learning challenge from June 5, 2026 to July
 
 ## Progress Tracker
 
-| Day    | Status |
-| ------ | ------ |
-| Day 1  | ⏳      |
+| Day    | Status    |
+| ------ | ------    |
+| Day 1  | Completed |
 | Day 2  | ⏳      |
 | Day 3  | ⏳      |
 | Day 4  | ⏳      |
@@ -132,8 +132,8 @@ This repository documents my 30-day learning challenge from June 5, 2026 to July
 
 ### Connect With Me
 
-LinkedIn: Add your LinkedIn profile link here
+LinkedIn: www.linkedin.com/in/sasika-m
 
-GitHub: Add your GitHub profile link here
+GitHub: https://github.com/sasika20
 
 #30DaysChallenge #DataScience #MachineLearning #Python #SQL #PowerBI #GenerativeAI
